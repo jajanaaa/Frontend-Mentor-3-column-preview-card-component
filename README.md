@@ -2,5 +2,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ![](./design/screenshoot)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-component-html-and-css-flexbox--hDK7ymIo
+- Live Site URL: https://janamanzana.github.io/Frontend-Mentor-3-column-preview-card-component/
